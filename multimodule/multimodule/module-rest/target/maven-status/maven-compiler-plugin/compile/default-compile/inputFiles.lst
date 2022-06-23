@@ -1,0 +1,3 @@
+/home/pablo/Documentos/workspaces/wk_hexagonal/multimodule/multimodule/module-rest/src/main/java/com/example/hexagonal/multimodule/dto/ProductDto.java
+/home/pablo/Documentos/workspaces/wk_hexagonal/multimodule/multimodule/module-rest/src/main/java/com/example/hexagonal/multimodule/controllers/ProductRestController.java
+/home/pablo/Documentos/workspaces/wk_hexagonal/multimodule/multimodule/module-rest/src/main/java/com/example/hexagonal/multimodule/mappers/ProductDtoMapper.java

@@ -1,0 +1,4 @@
+/home/pablo/Documentos/workspaces/wk_hexagonal/multimodule/multimodule/module-domain/src/main/java/com/example/hexagonal/multimodule/ports/usecase/SaveProductUseCase.java
+/home/pablo/Documentos/workspaces/wk_hexagonal/multimodule/multimodule/module-domain/src/main/java/com/example/hexagonal/multimodule/domain/Product.java
+/home/pablo/Documentos/workspaces/wk_hexagonal/multimodule/multimodule/module-domain/src/main/java/com/example/hexagonal/multimodule/ports/repository/ProductRepository.java
+/home/pablo/Documentos/workspaces/wk_hexagonal/multimodule/multimodule/module-domain/src/main/java/com/example/hexagonal/multimodule/ports/usecase/FindProductByCodeUseCase.java

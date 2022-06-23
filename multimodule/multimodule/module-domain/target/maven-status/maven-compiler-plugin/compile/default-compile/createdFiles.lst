@@ -1,0 +1,4 @@
+com/example/hexagonal/multimodule/ports/repository/ProductRepository.class
+com/example/hexagonal/multimodule/domain/Product.class
+com/example/hexagonal/multimodule/ports/usecase/SaveProductUseCase.class
+com/example/hexagonal/multimodule/ports/usecase/FindProductByCodeUseCase.class

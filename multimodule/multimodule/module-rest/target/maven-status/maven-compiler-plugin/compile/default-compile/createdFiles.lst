@@ -1,0 +1,4 @@
+com/example/hexagonal/multimodule/controllers/ProductRestController.class
+com/example/hexagonal/multimodule/mappers/ProductDtoMapper.class
+com/example/hexagonal/multimodule/mappers/ProductDtoMapperImpl.class
+com/example/hexagonal/multimodule/dto/ProductDto.class

@@ -1,0 +1,4 @@
+/home/pablo/Documentos/workspaces/wk_hexagonal/multimodule/multimodule/module-infrastructure/src/main/java/com/example/hexagonal/multimodule/mappers/ProductEntityMapper.java
+/home/pablo/Documentos/workspaces/wk_hexagonal/multimodule/multimodule/module-infrastructure/src/main/java/com/example/hexagonal/multimodule/repositories/ProductJpaRepository.java
+/home/pablo/Documentos/workspaces/wk_hexagonal/multimodule/multimodule/module-infrastructure/src/main/java/com/example/hexagonal/multimodule/entities/ProductEntity.java
+/home/pablo/Documentos/workspaces/wk_hexagonal/multimodule/multimodule/module-infrastructure/src/main/java/com/example/hexagonal/multimodule/repositories/ProductRepositoryImpl.java

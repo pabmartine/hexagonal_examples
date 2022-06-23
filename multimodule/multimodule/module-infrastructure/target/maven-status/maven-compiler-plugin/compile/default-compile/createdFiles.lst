@@ -1,0 +1,5 @@
+com/example/hexagonal/multimodule/entities/ProductEntity.class
+com/example/hexagonal/multimodule/mappers/ProductEntityMapperImpl.class
+com/example/hexagonal/multimodule/mappers/ProductEntityMapper.class
+com/example/hexagonal/multimodule/repositories/ProductJpaRepository.class
+com/example/hexagonal/multimodule/repositories/ProductRepositoryImpl.class
